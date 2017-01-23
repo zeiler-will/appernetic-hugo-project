@@ -1,10 +1,11 @@
 +++
 title = "firstpost"
-draft = true
-date = "2017-01-23T20:23:35Z"
+draft = false
+date = "2017-01-23T20:27:05Z"
 
 +++
-This is the first post, from `firstpost.md`
+
+This is the first post, from `firstpost.md`
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non ornare odio. Ut massa ante, euismod id tortor et, dictum scelerisque lacus. Aliquam venenatis ante erat. Nulla ultrices pellentesque urna in suscipit. Suspendisse potenti. Suspendisse sit amet lorem in lectus tincidunt aliquam. Mauris magna dolor, convallis accumsan mi id, elementum ullamcorper lacus. Proin quis nunc eu sapien placerat sollicitudin vitae ut lorem. Nullam venenatis ut mauris et tempor. Aliquam mollis vitae nunc vitae lobortis. Fusce pellentesque magna eu sollicitudin tempus.
 
