@@ -2,7 +2,7 @@
 baseurl = "http://www.example.com"
 
 # Site title
-title = "sitename"
+title = "Test Site"
 
 # Copyright
 copyright = "(c) 2015 yourname."
